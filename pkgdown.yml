@@ -1,0 +1,9 @@
+pandoc: '2.2'
+pkgdown: 1.1.0
+pkgdown_sha: ~
+articles:
+  blog1: blog1.html
+  data_model: data_model.html
+  first: first.html
+  proxy: proxy.html
+
